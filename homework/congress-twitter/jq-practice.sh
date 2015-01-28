@@ -27,7 +27,7 @@ cat data-hold/legislators-social-media.json | ~/bin_compciv/jq '.[] .social .fac
 echo '14.'
 cat data-hold/legislators-social-media.json | ~/bin_compciv/jq --raw-output '.[] | [.id .bioguide, .social .twitter] | @csv' | head -n 10
 echo '15.'
-cat data-hold/legislators-social-media.json | ~/bin_compciv/jq --raw-output '.[] | [.social .twitter, .id .bioguide] | @csv' | sort -r | head -n 16
+cat data-hold/legislators-social-media.json | ~/bin_compciv/jq --raw-output '.[] | [.id .bioguide, .social .twitter] | @csv' | grep ',$'
 echo '16.'
 cat data-hold/congress-twitter-profiles.json | ~/bin_compciv/jq '.[] .verified' | grep 'true' | wc -l
 echo '17.'
