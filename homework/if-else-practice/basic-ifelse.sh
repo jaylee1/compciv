@@ -12,10 +12,10 @@ elif [[ "$#" -eq 2 ]]; then
   if [[ $1 -eq $2 ]]; then
     echo "$1 is equal to $2"
 
-  if [[ $1 -gt $2 ]]; then
+  elif [[ $1 -gt $2 ]]; then
     echo "$1 is greater than $2"
 
-  if [[ $1 -lt $2 ]]; then
+  elif [[ $1 -lt $2 ]]; then
     echo "$1 is less than $2"
     ## write the other conditions for less-than and
     ## greater-than yourself
@@ -37,24 +37,27 @@ elif [[ "$#" -eq 3 ]]; then
     str_a="is equal to $2"
   elif [[ $1 -lt $2 ]]; then
     str_a="is less than $2"
-    ## and so forth
+  elif [[ $1 -gt $2 ]]; then
+    str_a="is greater than $2"
+  ## and so forth
   fi
     
   if [[ $1 -eq $3 ]]; then
     str_b="is equal to $3"
+  elif [[ $1 -lt $3 ]]; then
+    str_b="is less then $3"
+  elif [[ $1 -gt $3 ]]; then
+    str_b="is greater than $3"
     ## and so forth
   fi
 
   # finally, echo the full comparison statement
   echo "$1 $str_a and $str_b"
-fi
 
 ### Almost done
 ### You need to write in one last conditional branch to deal with 
 ### more than 3 arguments, i.e.
-### "You need fewer than 9 arguments"
 
-elif [[ "$#" -gt 3 ]]; then
+else
   echo "Way too many arguments, asshole"
-fi
 fi
