@@ -1,0 +1,80 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ezekial Avenue",
+               "short_name" : "Ezekial Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75217",
+               "short_name" : "75217",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "5624",
+               "short_name" : "5624",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "200 Ezekial Avenue, Dallas, TX 75217, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7148354,
+                  "lng" : -96.7106613
+               },
+               "southwest" : {
+                  "lat" : 32.7148239,
+                  "lng" : -96.71067359999999
+               }
+            },
+            "location" : {
+               "lat" : 32.7148354,
+               "lng" : -96.7106613
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.71617863029149,
+                  "lng" : -96.70931846970849
+               },
+               "southwest" : {
+                  "lat" : 32.7134806697085,
+                  "lng" : -96.7120164302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EikyMDAgRXpla2lhbCBBdmVudWUsIERhbGxhcywgVFggNzUyMTcsIFVTQQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

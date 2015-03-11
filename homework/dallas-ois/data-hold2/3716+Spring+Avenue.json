@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3716",
+               "short_name" : "3716",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Spring Avenue",
+               "short_name" : "Spring Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South Dallas/Fair Park",
+               "short_name" : "South Dallas/Fair Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75210",
+               "short_name" : "75210",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2050",
+               "short_name" : "2050",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "3716 Spring Avenue, Dallas, TX 75210, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.768897,
+               "lng" : -96.74839899999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.77024598029149,
+                  "lng" : -96.74705001970848
+               },
+               "southwest" : {
+                  "lat" : 32.76754801970849,
+                  "lng" : -96.7497479802915
+               }
+            }
+         },
+         "place_id" : "ChIJh8X_u3iiToYReGpZGGzS2QQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

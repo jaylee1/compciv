@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4800",
+               "short_name" : "4800",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Veterans Drive",
+               "short_name" : "Veterans Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cedar Crest",
+               "short_name" : "Cedar Crest",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75216",
+               "short_name" : "75216",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "7455",
+               "short_name" : "7455",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "4800 Veterans Drive, Dallas, TX 75216, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.69298,
+               "lng" : -96.781674
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.69432898029149,
+                  "lng" : -96.7803250197085
+               },
+               "southwest" : {
+                  "lat" : 32.6916310197085,
+                  "lng" : -96.78302298029151
+               }
+            }
+         },
+         "place_id" : "ChIJ00OBqqKXToYR7faO4zOK5KA",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

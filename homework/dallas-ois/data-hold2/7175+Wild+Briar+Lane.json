@@ -1,0 +1,145 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Briar Crossing",
+               "short_name" : "Briar Crossing",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ceadarbrook Estates",
+               "short_name" : "Ceadarbrook Estates",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Mesquite",
+               "short_name" : "Mesquite",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75181",
+               "short_name" : "75181",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Briar Crossing, Mesquite, TX 75181, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7395499,
+                  "lng" : -96.5784374
+               },
+               "southwest" : {
+                  "lat" : 32.7385337,
+                  "lng" : -96.5804871
+               }
+            },
+            "location" : {
+               "lat" : 32.7391792,
+               "lng" : -96.57955820000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7403907802915,
+                  "lng" : -96.5781132697085
+               },
+               "southwest" : {
+                  "lat" : 32.7376928197085,
+                  "lng" : -96.5808112302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJh_cPa1ilToYRk1mMYUvBr4o",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greenbrier Drive",
+               "short_name" : "Greenbrier Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Edgemont Park",
+               "short_name" : "Edgemont Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Mesquite",
+               "short_name" : "Mesquite",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75149",
+               "short_name" : "75149",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Greenbrier Drive, Mesquite, TX 75149, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.738645,
+                  "lng" : -96.6148384
+               },
+               "southwest" : {
+                  "lat" : 32.737265,
+                  "lng" : -96.62018599999999
+               }
+            },
+            "location" : {
+               "lat" : 32.737751,
+               "lng" : -96.617572
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7393039802915,
+                  "lng" : -96.6148384
+               },
+               "southwest" : {
+                  "lat" : 32.7366060197085,
+                  "lng" : -96.62018599999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ1bt8WSalToYRtk2_RMRLJvo",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

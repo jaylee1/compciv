@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5215",
+               "short_name" : "5215",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Belmont Avenue",
+               "short_name" : "Belmont Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Old East Dallas",
+               "short_name" : "Old East Dallas",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75206",
+               "short_name" : "75206",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "5215 Belmont Avenue, Dallas, TX 75206, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.815123,
+               "lng" : -96.780733
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8164719802915,
+                  "lng" : -96.77938401970849
+               },
+               "southwest" : {
+                  "lat" : 32.8137740197085,
+                  "lng" : -96.78208198029149
+               }
+            }
+         },
+         "place_id" : "ChIJ6xMQPTCfToYRuxlEvm5afrY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

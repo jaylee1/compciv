@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5400",
+               "short_name" : "5400",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bonita Avenue",
+               "short_name" : "Bonita Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vickery Place",
+               "short_name" : "Vickery Place",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75206",
+               "short_name" : "75206",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "6730",
+               "short_name" : "6730",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "5400 Bonita Avenue, Dallas, TX 75206, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.8182119,
+                  "lng" : -96.77740039999999
+               },
+               "southwest" : {
+                  "lat" : 32.8181964,
+                  "lng" : -96.77740039999999
+               }
+            },
+            "location" : {
+               "lat" : 32.8181964,
+               "lng" : -96.77740039999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8195531302915,
+                  "lng" : -96.77605141970848
+               },
+               "southwest" : {
+                  "lat" : 32.8168551697085,
+                  "lng" : -96.77874938029149
+               }
+            }
+         },
+         "place_id" : "Eik1NDAwIEJvbml0YSBBdmVudWUsIERhbGxhcywgVFggNzUyMDYsIFVTQQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

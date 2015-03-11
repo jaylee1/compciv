@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4542",
+               "short_name" : "4542",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Kiest Boulevard",
+               "short_name" : "W Kiest Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oak Cliff",
+               "short_name" : "Oak Cliff",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75236",
+               "short_name" : "75236",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4542 West Kiest Boulevard, Dallas, TX 75236, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7053529,
+               "lng" : -96.8971598
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7067018802915,
+                  "lng" : -96.89581081970849
+               },
+               "southwest" : {
+                  "lat" : 32.7040039197085,
+                  "lng" : -96.89850878029151
+               }
+            }
+         },
+         "place_id" : "ChIJg2yxfXSQToYRxJQXGhmBqm8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

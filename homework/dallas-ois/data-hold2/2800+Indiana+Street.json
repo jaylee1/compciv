@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2800",
+               "short_name" : "2800",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Indiana Street",
+               "short_name" : "Indiana St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Deep Ellum",
+               "short_name" : "Deep Ellum",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75226",
+               "short_name" : "75226",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2800 Indiana Street, Dallas, TX 75226, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7854074,
+                  "lng" : -96.78382809999999
+               },
+               "southwest" : {
+                  "lat" : 32.7853923,
+                  "lng" : -96.78383269999999
+               }
+            },
+            "location" : {
+               "lat" : 32.7853923,
+               "lng" : -96.78382809999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7867488302915,
+                  "lng" : -96.78248141970849
+               },
+               "southwest" : {
+                  "lat" : 32.7840508697085,
+                  "lng" : -96.7851793802915
+               }
+            }
+         },
+         "place_id" : "EioyODAwIEluZGlhbmEgU3RyZWV0LCBEYWxsYXMsIFRYIDc1MjI2LCBVU0E",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

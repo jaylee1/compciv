@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2514",
+               "short_name" : "2514",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Tristian Court",
+               "short_name" : "Tristian Ct",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oak Cliff",
+               "short_name" : "Oak Cliff",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75211",
+               "short_name" : "75211",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "7472",
+               "short_name" : "7472",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "2514 Tristian Court, Dallas, TX 75211, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.717996,
+               "lng" : -96.91069299999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7193449802915,
+                  "lng" : -96.90934401970848
+               },
+               "southwest" : {
+                  "lat" : 32.7166470197085,
+                  "lng" : -96.91204198029151
+               }
+            }
+         },
+         "place_id" : "ChIJsQjLja-aToYRYi6gvmIQZ_0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

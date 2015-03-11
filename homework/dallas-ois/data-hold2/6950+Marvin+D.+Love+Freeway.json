@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "6950",
+               "short_name" : "6950",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Marvin D Love Freeway",
+               "short_name" : "Marvin D Love Fwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wolf Creek",
+               "short_name" : "Wolf Creek",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75237",
+               "short_name" : "75237",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2618",
+               "short_name" : "2618",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "6950 Marvin D Love Freeway, Dallas, TX 75237, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.66322,
+               "lng" : -96.867496
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.66456898029149,
+                  "lng" : -96.86614701970849
+               },
+               "southwest" : {
+                  "lat" : 32.66187101970849,
+                  "lng" : -96.86884498029151
+               }
+            }
+         },
+         "place_id" : "ChIJDXRM1AKRToYRcwaQYX3Rm2Y",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

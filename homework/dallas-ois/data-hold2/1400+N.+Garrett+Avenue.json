@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1400",
+               "short_name" : "1400",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Garrett Avenue",
+               "short_name" : "N Garrett Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Old East Dallas",
+               "short_name" : "Old East Dallas",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75206",
+               "short_name" : "75206",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1400 North Garrett Avenue, Dallas, TX 75206, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.8057965,
+                  "lng" : -96.77122899999999
+               },
+               "southwest" : {
+                  "lat" : 32.8057857,
+                  "lng" : -96.77124219999999
+               }
+            },
+            "location" : {
+               "lat" : 32.8057965,
+               "lng" : -96.77122899999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8071400802915,
+                  "lng" : -96.76988661970849
+               },
+               "southwest" : {
+                  "lat" : 32.8044421197085,
+                  "lng" : -96.77258458029151
+               }
+            }
+         },
+         "place_id" : "EjAxNDAwIE5vcnRoIEdhcnJldHQgQXZlbnVlLCBEYWxsYXMsIFRYIDc1MjA2LCBVU0E",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

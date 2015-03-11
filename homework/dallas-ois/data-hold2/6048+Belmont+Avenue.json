@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "6048",
+               "short_name" : "6048",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Belmont Avenue",
+               "short_name" : "Belmont Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lower Greenville",
+               "short_name" : "Lower Greenville",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75206",
+               "short_name" : "75206",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "6808",
+               "short_name" : "6808",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "6048 Belmont Avenue, Dallas, TX 75206, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.8173445,
+                  "lng" : -96.7618782
+               },
+               "southwest" : {
+                  "lat" : 32.817329,
+                  "lng" : -96.76187829999999
+               }
+            },
+            "location" : {
+               "lat" : 32.817329,
+               "lng" : -96.76187829999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8186857302915,
+                  "lng" : -96.7605292697085
+               },
+               "southwest" : {
+                  "lat" : 32.8159877697085,
+                  "lng" : -96.76322723029151
+               }
+            }
+         },
+         "place_id" : "Eio2MDQ4IEJlbG1vbnQgQXZlbnVlLCBEYWxsYXMsIFRYIDc1MjA2LCBVU0E",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "325",
+               "short_name" : "325",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Cadiz Street",
+               "short_name" : "Cadiz St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cedar Crest",
+               "short_name" : "Cedar Crest",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75207",
+               "short_name" : "75207",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "325 Cadiz Street, Dallas, TX 75207, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7675528,
+                  "lng" : -96.80255509999999
+               },
+               "southwest" : {
+                  "lat" : 32.7675431,
+                  "lng" : -96.80256949999999
+               }
+            },
+            "location" : {
+               "lat" : 32.7675528,
+               "lng" : -96.80256949999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7688969302915,
+                  "lng" : -96.80121331970849
+               },
+               "southwest" : {
+                  "lat" : 32.7661989697085,
+                  "lng" : -96.8039112802915
+               }
+            }
+         },
+         "place_id" : "EiczMjUgQ2FkaXogU3RyZWV0LCBEYWxsYXMsIFRYIDc1MjA3LCBVU0E",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

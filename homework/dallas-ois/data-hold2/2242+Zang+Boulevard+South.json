@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2242",
+               "short_name" : "2242",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Zang Boulevard",
+               "short_name" : "S Zang Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wynnewood North",
+               "short_name" : "Wynnewood North",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75224",
+               "short_name" : "75224",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1938",
+               "short_name" : "1938",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "2242 South Zang Boulevard, Dallas, TX 75224, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7208691,
+               "lng" : -96.82955699999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7222180802915,
+                  "lng" : -96.8282080197085
+               },
+               "southwest" : {
+                  "lat" : 32.7195201197085,
+                  "lng" : -96.8309059802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJDSAa1vuZToYRILxFl289kDo",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

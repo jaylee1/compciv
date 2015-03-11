@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2600",
+               "short_name" : "2600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Walnut Hill Lane",
+               "short_name" : "Walnut Hill Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Northwest Dallas",
+               "short_name" : "Northwest Dallas",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75229",
+               "short_name" : "75229",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2600 Walnut Hill Lane, Dallas, TX 75229, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.8810454,
+                  "lng" : -96.890298
+               },
+               "southwest" : {
+                  "lat" : 32.8810299,
+                  "lng" : -96.890298
+               }
+            },
+            "location" : {
+               "lat" : 32.8810299,
+               "lng" : -96.890298
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8823866302915,
+                  "lng" : -96.88894901970849
+               },
+               "southwest" : {
+                  "lat" : 32.8796886697085,
+                  "lng" : -96.8916469802915
+               }
+            }
+         },
+         "place_id" : "EiwyNjAwIFdhbG51dCBIaWxsIExhbmUsIERhbGxhcywgVFggNzUyMjksIFVTQQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3600",
+               "short_name" : "3600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Folklore Trail",
+               "short_name" : "Folklore Trail",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oak Cliff",
+               "short_name" : "Oak Cliff",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75224",
+               "short_name" : "75224",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3600 Folklore Trail, Dallas, TX 75224, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.698689,
+                  "lng" : -96.8410842
+               },
+               "southwest" : {
+                  "lat" : 32.6986735,
+                  "lng" : -96.84108430000001
+               }
+            },
+            "location" : {
+               "lat" : 32.6986735,
+               "lng" : -96.84108430000001
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7000302302915,
+                  "lng" : -96.83973526970851
+               },
+               "southwest" : {
+                  "lat" : 32.6973322697085,
+                  "lng" : -96.84243323029152
+               }
+            }
+         },
+         "place_id" : "EiozNjAwIEZvbGtsb3JlIFRyYWlsLCBEYWxsYXMsIFRYIDc1MjI0LCBVU0E",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

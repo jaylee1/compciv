@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2700",
+               "short_name" : "2700",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Medill Street",
+               "short_name" : "Medill St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75215",
+               "short_name" : "75215",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2700 Medill Street, Dallas, TX 75215, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7752948,
+                  "lng" : -96.7673241
+               },
+               "southwest" : {
+                  "lat" : 32.7752839,
+                  "lng" : -96.76733709999999
+               }
+            },
+            "location" : {
+               "lat" : 32.7752948,
+               "lng" : -96.7673241
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7766383302915,
+                  "lng" : -96.7659816197085
+               },
+               "southwest" : {
+                  "lat" : 32.7739403697085,
+                  "lng" : -96.7686795802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EikyNzAwIE1lZGlsbCBTdHJlZXQsIERhbGxhcywgVFggNzUyMTUsIFVTQQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

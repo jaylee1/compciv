@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "12100",
+               "short_name" : "12100",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bellafonte Drive",
+               "short_name" : "Bellafonte Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75243",
+               "short_name" : "75243",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "12100 Bellafonte Drive, Dallas, TX 75243, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.9133004,
+                  "lng" : -96.7615086
+               },
+               "southwest" : {
+                  "lat" : 32.9132966,
+                  "lng" : -96.7615265
+               }
+            },
+            "location" : {
+               "lat" : 32.9132966,
+               "lng" : -96.7615086
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9146474802915,
+                  "lng" : -96.76016856970848
+               },
+               "southwest" : {
+                  "lat" : 32.9119495197085,
+                  "lng" : -96.7628665302915
+               }
+            }
+         },
+         "place_id" : "Ei0xMjEwMCBCZWxsYWZvbnRlIERyaXZlLCBEYWxsYXMsIFRYIDc1MjQzLCBVU0E",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

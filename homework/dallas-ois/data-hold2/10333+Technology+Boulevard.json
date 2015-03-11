@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10333",
+               "short_name" : "10333",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Technology Boulevard West",
+               "short_name" : "Technology Blvd W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75220",
+               "short_name" : "75220",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "10333 Technology Boulevard West, Dallas, TX 75220, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.863133,
+               "lng" : -96.89794499999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8644819802915,
+                  "lng" : -96.89659601970848
+               },
+               "southwest" : {
+                  "lat" : 32.8617840197085,
+                  "lng" : -96.8992939802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJnb5KohWdToYRaeBFuaTQB9g",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

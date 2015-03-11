@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "18220",
+               "short_name" : "18220",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dallas Parkway",
+               "short_name" : "Dallas Pkwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Far North Dallas",
+               "short_name" : "Far North Dallas",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Collin County",
+               "short_name" : "Collin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75287",
+               "short_name" : "75287",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "18220 Dallas Parkway, Dallas, TX 75287, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9985843,
+               "lng" : -96.8285958
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9999332802915,
+                  "lng" : -96.82724681970851
+               },
+               "southwest" : {
+                  "lat" : 32.9972353197085,
+                  "lng" : -96.82994478029151
+               }
+            }
+         },
+         "place_id" : "ChIJe_7eXPEjTIYRyCGY-Z4YpsY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

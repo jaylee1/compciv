@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2000",
+               "short_name" : "2000",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Pacific Avenue",
+               "short_name" : "Pacific Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Main Street District",
+               "short_name" : "Main Street District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75201",
+               "short_name" : "75201",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2000 Pacific Avenue, Dallas, TX 75201, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7831875,
+                  "lng" : -96.79458299999999
+               },
+               "southwest" : {
+                  "lat" : 32.7831728,
+                  "lng" : -96.7945888
+               }
+            },
+            "location" : {
+               "lat" : 32.7831728,
+               "lng" : -96.79458299999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7845291302915,
+                  "lng" : -96.79323691970849
+               },
+               "southwest" : {
+                  "lat" : 32.7818311697085,
+                  "lng" : -96.79593488029151
+               }
+            }
+         },
+         "place_id" : "EioyMDAwIFBhY2lmaWMgQXZlbnVlLCBEYWxsYXMsIFRYIDc1MjAxLCBVU0E",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

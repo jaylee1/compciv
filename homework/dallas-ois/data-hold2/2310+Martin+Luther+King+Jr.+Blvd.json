@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2310",
+               "short_name" : "2310",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Martin Luther King Junior Boulevard",
+               "short_name" : "Martin Luther King Jr Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75215",
+               "short_name" : "75215",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2301",
+               "short_name" : "2301",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "2310 Martin Luther King Junior Boulevard, Dallas, TX 75215, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7643874,
+               "lng" : -96.77303900000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.76573638029149,
+                  "lng" : -96.77169001970852
+               },
+               "southwest" : {
+                  "lat" : 32.76303841970849,
+                  "lng" : -96.77438798029152
+               }
+            }
+         },
+         "place_id" : "ChIJV-BF9_SYToYRrRiDnW5nRyE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

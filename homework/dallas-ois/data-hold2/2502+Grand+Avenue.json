@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2502",
+               "short_name" : "2502",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Grand Avenue",
+               "short_name" : "Grand Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75215",
+               "short_name" : "75215",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2502 Grand Avenue, Dallas, TX 75215, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.768664,
+               "lng" : -96.77459700000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7700129802915,
+                  "lng" : -96.77324801970852
+               },
+               "southwest" : {
+                  "lat" : 32.76731501970851,
+                  "lng" : -96.77594598029152
+               }
+            }
+         },
+         "place_id" : "ChIJD9oWt_OYToYRxGgYuEwfWCY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

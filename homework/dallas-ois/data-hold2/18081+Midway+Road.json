@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "18081",
+               "short_name" : "18081",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Midway Road",
+               "short_name" : "Midway Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Far North Dallas",
+               "short_name" : "Far North Dallas",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Denton County",
+               "short_name" : "Denton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75287",
+               "short_name" : "75287",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "18081 Midway Road, Dallas, TX 75287, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9953425,
+               "lng" : -96.8441892
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9966914802915,
+                  "lng" : -96.84284021970849
+               },
+               "southwest" : {
+                  "lat" : 32.9939935197085,
+                  "lng" : -96.84553818029151
+               }
+            }
+         },
+         "place_id" : "ChIJzwWAKxAkTIYR5r4lC_Y8zNo",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

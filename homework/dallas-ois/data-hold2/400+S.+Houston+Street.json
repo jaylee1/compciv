@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "400",
+               "short_name" : "400",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Houston Street",
+               "short_name" : "S Houston St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75202",
+               "short_name" : "75202",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "400 South Houston Street, Dallas, TX 75202, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7764148,
+               "lng" : -96.8056124
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.77776378029149,
+                  "lng" : -96.80426341970849
+               },
+               "southwest" : {
+                  "lat" : 32.7750658197085,
+                  "lng" : -96.80696138029151
+               }
+            }
+         },
+         "place_id" : "ChIJ8-WgzhaZToYR8p-nAjMAHa0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

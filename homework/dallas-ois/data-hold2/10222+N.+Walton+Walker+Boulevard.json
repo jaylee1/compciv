@@ -1,0 +1,80 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10222",
+               "short_name" : "10222",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Walton Walker Boulevard",
+               "short_name" : "N Walton Walker Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West Dallas",
+               "short_name" : "West Dallas",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75212",
+               "short_name" : "75212",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "10222 North Walton Walker Boulevard, Dallas, TX 75212, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7780382,
+                  "lng" : -96.91630959999999
+               },
+               "southwest" : {
+                  "lat" : 32.7780352,
+                  "lng" : -96.9163277
+               }
+            },
+            "location" : {
+               "lat" : 32.7780382,
+               "lng" : -96.91630959999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7793856802915,
+                  "lng" : -96.91496966970848
+               },
+               "southwest" : {
+                  "lat" : 32.7766877197085,
+                  "lng" : -96.91766763029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjoxMDIyMiBOb3J0aCBXYWx0b24gV2Fsa2VyIEJvdWxldmFyZCwgRGFsbGFzLCBUWCA3NTIxMiwgVVNB",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

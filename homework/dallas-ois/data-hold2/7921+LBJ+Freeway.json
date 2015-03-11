@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "7921",
+               "short_name" : "7921",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lyndon B Johnson Freeway",
+               "short_name" : "Lyndon B Johnson Fwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Garland",
+               "short_name" : "Garland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75041",
+               "short_name" : "75041",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "7921 Lyndon B Johnson Freeway, Garland, TX 75041, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.8564097,
+                  "lng" : -96.64832369999999
+               },
+               "southwest" : {
+                  "lat" : 32.8563991,
+                  "lng" : -96.64833709999999
+               }
+            },
+            "location" : {
+               "lat" : 32.8563991,
+               "lng" : -96.64833709999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8577533802915,
+                  "lng" : -96.6469814197085
+               },
+               "southwest" : {
+                  "lat" : 32.8550554197085,
+                  "lng" : -96.6496793802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjU3OTIxIEx5bmRvbiBCIEpvaG5zb24gRnJlZXdheSwgR2FybGFuZCwgVFggNzUwNDEsIFVTQQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

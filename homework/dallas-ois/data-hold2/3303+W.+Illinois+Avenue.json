@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3303",
+               "short_name" : "3303",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Illinois Avenue",
+               "short_name" : "W Illinois Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oak Cliff",
+               "short_name" : "Oak Cliff",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75211",
+               "short_name" : "75211",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "8721",
+               "short_name" : "8721",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "3303 West Illinois Avenue, Dallas, TX 75211, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.720699,
+               "lng" : -96.874708
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7220479802915,
+                  "lng" : -96.87335901970849
+               },
+               "southwest" : {
+                  "lat" : 32.7193500197085,
+                  "lng" : -96.87605698029149
+               }
+            }
+         },
+         "place_id" : "ChIJJyM_23yaToYRlaeOl0iU_dM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

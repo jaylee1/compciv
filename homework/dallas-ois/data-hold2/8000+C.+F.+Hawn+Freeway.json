@@ -1,0 +1,80 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "8000",
+               "short_name" : "8000",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "C F Hawn Freeway",
+               "short_name" : "C F Hawn Fwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75217",
+               "short_name" : "75217",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "6534",
+               "short_name" : "6534",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "8000 C F Hawn Freeway, Dallas, TX 75217, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.714045,
+                  "lng" : -96.6847023
+               },
+               "southwest" : {
+                  "lat" : 32.714033,
+                  "lng" : -96.684714
+               }
+            },
+            "location" : {
+               "lat" : 32.714033,
+               "lng" : -96.684714
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7153879802915,
+                  "lng" : -96.6833591697085
+               },
+               "southwest" : {
+                  "lat" : 32.7126900197085,
+                  "lng" : -96.6860571302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Eiw4MDAwIEMgRiBIYXduIEZyZWV3YXksIERhbGxhcywgVFggNzUyMTcsIFVTQQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

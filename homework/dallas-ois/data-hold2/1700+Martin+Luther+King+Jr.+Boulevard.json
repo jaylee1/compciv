@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1700",
+               "short_name" : "1700",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Martin Luther King Junior Boulevard",
+               "short_name" : "Martin Luther King Jr Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cedar Crest",
+               "short_name" : "Cedar Crest",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75215",
+               "short_name" : "75215",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3211",
+               "short_name" : "3211",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1700 Martin Luther King Junior Boulevard, Dallas, TX 75215, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7620047,
+                  "lng" : -96.77668300000001
+               },
+               "southwest" : {
+                  "lat" : 32.7619939,
+                  "lng" : -96.77669619999999
+               }
+            },
+            "location" : {
+               "lat" : 32.7619939,
+               "lng" : -96.77668300000001
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7633482802915,
+                  "lng" : -96.7753406197085
+               },
+               "southwest" : {
+                  "lat" : 32.7606503197085,
+                  "lng" : -96.77803858029152
+               }
+            }
+         },
+         "place_id" : "Ej8xNzAwIE1hcnRpbiBMdXRoZXIgS2luZyBKdW5pb3IgQm91bGV2YXJkLCBEYWxsYXMsIFRYIDc1MjE1LCBVU0E",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

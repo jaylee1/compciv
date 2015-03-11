@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2550",
+               "short_name" : "2550",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Red Bird Lane",
+               "short_name" : "W Red Bird Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wolf Creek",
+               "short_name" : "Wolf Creek",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75237",
+               "short_name" : "75237",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2550 West Red Bird Lane, Dallas, TX 75237, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.6699846,
+               "lng" : -96.85970669999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.6713335802915,
+                  "lng" : -96.85835771970848
+               },
+               "southwest" : {
+                  "lat" : 32.6686356197085,
+                  "lng" : -96.86105568029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJdbbjGOGQToYRqUB4lZrr73Q",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

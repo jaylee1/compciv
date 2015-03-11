@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4023",
+               "short_name" : "4023",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bernal Drive",
+               "short_name" : "Bernal Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West Dallas",
+               "short_name" : "West Dallas",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75212",
+               "short_name" : "75212",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1206",
+               "short_name" : "1206",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "4023 Bernal Drive, Dallas, TX 75212, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7913356,
+                  "lng" : -96.88734529999999
+               },
+               "southwest" : {
+                  "lat" : 32.791322,
+                  "lng" : -96.88735419999999
+               }
+            },
+            "location" : {
+               "lat" : 32.7913356,
+               "lng" : -96.88735419999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7926777802915,
+                  "lng" : -96.88600076970849
+               },
+               "southwest" : {
+                  "lat" : 32.7899798197085,
+                  "lng" : -96.88869873029149
+               }
+            }
+         },
+         "place_id" : "Eig0MDIzIEJlcm5hbCBEcml2ZSwgRGFsbGFzLCBUWCA3NTIxMiwgVVNB",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

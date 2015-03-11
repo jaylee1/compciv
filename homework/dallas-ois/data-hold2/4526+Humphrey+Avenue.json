@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4526",
+               "short_name" : "4526",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Humphrey Drive",
+               "short_name" : "Humphrey Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cedar Crest",
+               "short_name" : "Cedar Crest",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75216",
+               "short_name" : "75216",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "7323",
+               "short_name" : "7323",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "4526 Humphrey Drive, Dallas, TX 75216, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.70541,
+               "lng" : -96.762253
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7067589802915,
+                  "lng" : -96.76090401970849
+               },
+               "southwest" : {
+                  "lat" : 32.7040610197085,
+                  "lng" : -96.76360198029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJyVhOKPCXToYRd6PPxmnTEng",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "7728",
+               "short_name" : "7728",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Loop 12",
+               "short_name" : "S Loop 12",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75217",
+               "short_name" : "75217",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "7728 South Loop 12, Dallas, TX 75217, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.711986,
+               "lng" : -96.6893769
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7133349802915,
+                  "lng" : -96.68802791970849
+               },
+               "southwest" : {
+                  "lat" : 32.7106370197085,
+                  "lng" : -96.69072588029151
+               }
+            }
+         },
+         "place_id" : "ChIJX1R_38i8ToYRDFtEnPWYIx0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

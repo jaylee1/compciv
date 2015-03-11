@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2287",
+               "short_name" : "2287",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Northwest Highway",
+               "short_name" : "W Northwest Hwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Northwest Dallas",
+               "short_name" : "Northwest Dallas",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75220",
+               "short_name" : "75220",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "4304",
+               "short_name" : "4304",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "2287 West Northwest Highway, Dallas, TX 75220, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.862641,
+               "lng" : -96.8911229
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.86398998029149,
+                  "lng" : -96.8897739197085
+               },
+               "southwest" : {
+                  "lat" : 32.86129201970849,
+                  "lng" : -96.89247188029151
+               }
+            }
+         },
+         "place_id" : "ChIJ8ZY9ShKdToYRVU0w_NY6Rzw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

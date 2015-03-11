@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "6300",
+               "short_name" : "6300",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "C F Hawn Freeway",
+               "short_name" : "C F Hawn Fwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75217",
+               "short_name" : "75217",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "6300 C F Hawn Freeway, Dallas, TX 75217, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7369642,
+                  "lng" : -96.7161507
+               },
+               "southwest" : {
+                  "lat" : 32.73695319999999,
+                  "lng" : -96.7161636
+               }
+            },
+            "location" : {
+               "lat" : 32.7369642,
+               "lng" : -96.7161507
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.73830768029149,
+                  "lng" : -96.7148081697085
+               },
+               "southwest" : {
+                  "lat" : 32.73560971970849,
+                  "lng" : -96.71750613029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Eiw2MzAwIEMgRiBIYXduIEZyZWV3YXksIERhbGxhcywgVFggNzUyMTcsIFVTQQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

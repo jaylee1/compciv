@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2208",
+               "short_name" : "2208",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Northwest Highway",
+               "short_name" : "W Northwest Hwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75220",
+               "short_name" : "75220",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "4305",
+               "short_name" : "4305",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "2208 West Northwest Highway, Dallas, TX 75220, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8637872,
+               "lng" : -96.8990069
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8651361802915,
+                  "lng" : -96.89765791970851
+               },
+               "southwest" : {
+                  "lat" : 32.8624382197085,
+                  "lng" : -96.90035588029151
+               }
+            }
+         },
+         "place_id" : "ChIJVX7jgRWdToYRdNbVDtQg2-E",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

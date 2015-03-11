@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "230",
+               "short_name" : "230",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Riverfront Boulevard",
+               "short_name" : "S Riverfront Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75207",
+               "short_name" : "75207",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "230 South Riverfront Boulevard, Dallas, TX 75207, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7755045,
+                  "lng" : -96.8132117
+               },
+               "southwest" : {
+                  "lat" : 32.7755044,
+                  "lng" : -96.81323019999999
+               }
+            },
+            "location" : {
+               "lat" : 32.7755045,
+               "lng" : -96.8132117
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7768534302915,
+                  "lng" : -96.81187196970849
+               },
+               "southwest" : {
+                  "lat" : 32.7741554697085,
+                  "lng" : -96.8145699302915
+               }
+            }
+         },
+         "place_id" : "EjUyMzAgU291dGggUml2ZXJmcm9udCBCb3VsZXZhcmQsIERhbGxhcywgVFggNzUyMDcsIFVTQQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

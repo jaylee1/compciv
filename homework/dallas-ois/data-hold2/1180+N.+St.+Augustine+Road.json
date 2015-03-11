@@ -1,0 +1,80 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1180",
+               "short_name" : "1180",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Saint Augustine Drive",
+               "short_name" : "N St Augustine Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pleasant Grove",
+               "short_name" : "Pleasant Grove",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75217",
+               "short_name" : "75217",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1180 North Saint Augustine Drive, Dallas, TX 75217, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.73236,
+                  "lng" : -96.65692199999999
+               },
+               "southwest" : {
+                  "lat" : 32.7323596,
+                  "lng" : -96.6569404
+               }
+            },
+            "location" : {
+               "lat" : 32.7323596,
+               "lng" : -96.65692199999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.73370878029149,
+                  "lng" : -96.65558221970848
+               },
+               "southwest" : {
+                  "lat" : 32.7310108197085,
+                  "lng" : -96.6582801802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjcxMTgwIE5vcnRoIFNhaW50IEF1Z3VzdGluZSBEcml2ZSwgRGFsbGFzLCBUWCA3NTIxNywgVVNB",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3100",
+               "short_name" : "3100",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Davis Street",
+               "short_name" : "W Davis St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oak Cliff",
+               "short_name" : "Oak Cliff",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75211",
+               "short_name" : "75211",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2920",
+               "short_name" : "2920",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "3100 West Davis Street, Dallas, TX 75211, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.749324,
+               "lng" : -96.871583
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7506729802915,
+                  "lng" : -96.87023401970851
+               },
+               "southwest" : {
+                  "lat" : 32.74797501970851,
+                  "lng" : -96.87293198029151
+               }
+            }
+         },
+         "place_id" : "ChIJl-CZXFGaToYRbO6k0PgDRx0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

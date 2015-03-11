@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5400",
+               "short_name" : "5400",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East R L Thornton Freeway",
+               "short_name" : "E R L Thornton Fwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75223",
+               "short_name" : "75223",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "5400 East R L Thornton Freeway, Dallas, TX 75223, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7918689,
+                  "lng" : -96.7477184
+               },
+               "southwest" : {
+                  "lat" : 32.7918546,
+                  "lng" : -96.7477255
+               }
+            },
+            "location" : {
+               "lat" : 32.7918546,
+               "lng" : -96.7477184
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7932107302915,
+                  "lng" : -96.74637296970849
+               },
+               "southwest" : {
+                  "lat" : 32.7905127697085,
+                  "lng" : -96.74907093029151
+               }
+            }
+         },
+         "place_id" : "EjU1NDAwIEVhc3QgUiBMIFRob3JudG9uIEZyZWV3YXksIERhbGxhcywgVFggNzUyMjMsIFVTQQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

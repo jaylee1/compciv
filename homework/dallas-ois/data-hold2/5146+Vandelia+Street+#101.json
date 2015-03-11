@@ -1,0 +1,214 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5146",
+               "short_name" : "5146",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Vandelia Street",
+               "short_name" : "Vandelia St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75235",
+               "short_name" : "75235",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "5146 Vandelia Street, Dallas, TX 75235, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.822487,
+               "lng" : -96.823853
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.82383598029149,
+                  "lng" : -96.82250401970849
+               },
+               "southwest" : {
+                  "lat" : 32.82113801970849,
+                  "lng" : -96.82520198029151
+               }
+            }
+         },
+         "place_id" : "ChIJjz8Z17yeToYRMsCiQOJrxbQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "5146",
+               "short_name" : "5146",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Vandelia Street",
+               "short_name" : "Vandelia St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oak Lawn",
+               "short_name" : "Oak Lawn",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75219",
+               "short_name" : "75219",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2049",
+               "short_name" : "2049",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "5146 Vandelia Street, Dallas, TX 75219, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.817757,
+                  "lng" : -96.81701939999999
+               },
+               "southwest" : {
+                  "lat" : 32.817755,
+                  "lng" : -96.8170377
+               }
+            },
+            "location" : {
+               "lat" : 32.817755,
+               "lng" : -96.81701939999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8191049802915,
+                  "lng" : -96.81567956970849
+               },
+               "southwest" : {
+                  "lat" : 32.8164070197085,
+                  "lng" : -96.8183775302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Eis1MTQ2IFZhbmRlbGlhIFN0cmVldCwgRGFsbGFzLCBUWCA3NTIxOSwgVVNB",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vandelia Street",
+               "short_name" : "Vandelia St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Creekside At Preston",
+               "short_name" : "Creekside At Preston",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Frisco",
+               "short_name" : "Frisco",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Collin County",
+               "short_name" : "Collin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75035",
+               "short_name" : "75035",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vandelia Street, Frisco, TX 75035, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.1832974,
+                  "lng" : -96.7982318
+               },
+               "southwest" : {
+                  "lat" : 33.1821536,
+                  "lng" : -96.799019
+               }
+            },
+            "location" : {
+               "lat" : 33.1827654,
+               "lng" : -96.7987129
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.1840744802915,
+                  "lng" : -96.7972764197085
+               },
+               "southwest" : {
+                  "lat" : 33.1813765197085,
+                  "lng" : -96.7999743802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJwxhrYow-TIYRtDJ1mplWroU",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2000",
+               "short_name" : "2000",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Commerce Street",
+               "short_name" : "Commerce St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Main Street District",
+               "short_name" : "Main Street District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75201",
+               "short_name" : "75201",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2000 Commerce Street, Dallas, TX 75201, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7809677,
+                  "lng" : -96.79396360000001
+               },
+               "southwest" : {
+                  "lat" : 32.7809527,
+                  "lng" : -96.7939681
+               }
+            },
+            "location" : {
+               "lat" : 32.7809527,
+               "lng" : -96.79396360000001
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7823091802915,
+                  "lng" : -96.7926168697085
+               },
+               "southwest" : {
+                  "lat" : 32.7796112197085,
+                  "lng" : -96.79531483029152
+               }
+            }
+         },
+         "place_id" : "EisyMDAwIENvbW1lcmNlIFN0cmVldCwgRGFsbGFzLCBUWCA3NTIwMSwgVVNB",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

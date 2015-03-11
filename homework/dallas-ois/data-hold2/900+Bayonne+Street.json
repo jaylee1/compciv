@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "900",
+               "short_name" : "900",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bayonne Street",
+               "short_name" : "Bayonne St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West Dallas",
+               "short_name" : "West Dallas",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75212",
+               "short_name" : "75212",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "5302",
+               "short_name" : "5302",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "900 Bayonne Street, Dallas, TX 75212, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.775726,
+                  "lng" : -96.83699609999999
+               },
+               "southwest" : {
+                  "lat" : 32.7757105,
+                  "lng" : -96.8369963
+               }
+            },
+            "location" : {
+               "lat" : 32.7757105,
+               "lng" : -96.83699609999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.77706723029149,
+                  "lng" : -96.83564721970849
+               },
+               "southwest" : {
+                  "lat" : 32.77436926970849,
+                  "lng" : -96.8383451802915
+               }
+            }
+         },
+         "place_id" : "Eik5MDAgQmF5b25uZSBTdHJlZXQsIERhbGxhcywgVFggNzUyMTIsIFVTQQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

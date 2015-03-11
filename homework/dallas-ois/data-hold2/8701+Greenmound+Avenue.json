@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "8701",
+               "short_name" : "8701",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Greenmound Avenue",
+               "short_name" : "Greenmound Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Riverway Estates/Bruton Terrace",
+               "short_name" : "Riverway Estates/Bruton Terrace",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75227",
+               "short_name" : "75227",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "8701 Greenmound Avenue, Dallas, TX 75227, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7506829,
+                  "lng" : -96.6726748
+               },
+               "southwest" : {
+                  "lat" : 32.7506674,
+                  "lng" : -96.67267489999999
+               }
+            },
+            "location" : {
+               "lat" : 32.7506674,
+               "lng" : -96.67267489999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7520241302915,
+                  "lng" : -96.67132586970848
+               },
+               "southwest" : {
+                  "lat" : 32.7493261697085,
+                  "lng" : -96.67402383029149
+               }
+            }
+         },
+         "place_id" : "Ei04NzAxIEdyZWVubW91bmQgQXZlbnVlLCBEYWxsYXMsIFRYIDc1MjI3LCBVU0E",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

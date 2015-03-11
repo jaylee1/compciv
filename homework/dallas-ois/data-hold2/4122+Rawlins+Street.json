@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4122",
+               "short_name" : "4122",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rawlins Street",
+               "short_name" : "Rawlins St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oak Lawn",
+               "short_name" : "Oak Lawn",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75219",
+               "short_name" : "75219",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3660",
+               "short_name" : "3660",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "4122 Rawlins Street, Dallas, TX 75219, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.814779,
+               "lng" : -96.81059499999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8161279802915,
+                  "lng" : -96.8092460197085
+               },
+               "southwest" : {
+                  "lat" : 32.81343001970851,
+                  "lng" : -96.8119439802915
+               }
+            }
+         },
+         "place_id" : "ChIJk0_Cg8ieToYRnmvcr-QY2c8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4811",
+               "short_name" : "4811",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Duncanville Road",
+               "short_name" : "Duncanville Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75236",
+               "short_name" : "75236",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4811 Duncanville Road, Dallas, TX 75236, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.6859332,
+               "lng" : -96.91078290000002
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.6872821802915,
+                  "lng" : -96.90943391970852
+               },
+               "southwest" : {
+                  "lat" : 32.6845842197085,
+                  "lng" : -96.91213188029153
+               }
+            }
+         },
+         "place_id" : "ChIJn_kgqCKQToYR-y0B8YHCKwY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

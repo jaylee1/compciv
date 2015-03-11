@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Pearl Street",
+               "short_name" : "S Pearl St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Main Street District",
+               "short_name" : "Main Street District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75201",
+               "short_name" : "75201",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "200 South Pearl Street, Dallas, TX 75201, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7828456,
+                  "lng" : -96.7924381
+               },
+               "southwest" : {
+                  "lat" : 32.7828431,
+                  "lng" : -96.7924563
+               }
+            },
+            "location" : {
+               "lat" : 32.7828431,
+               "lng" : -96.7924381
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7841933302915,
+                  "lng" : -96.79109821970849
+               },
+               "southwest" : {
+                  "lat" : 32.7814953697085,
+                  "lng" : -96.79379618029151
+               }
+            }
+         },
+         "place_id" : "Ei0yMDAgU291dGggUGVhcmwgU3RyZWV0LCBEYWxsYXMsIFRYIDc1MjAxLCBVU0E",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,80 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4900",
+               "short_name" : "4900",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Side Avenue",
+               "short_name" : "East Side Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Old East Dallas",
+               "short_name" : "Old East Dallas",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75214",
+               "short_name" : "75214",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4900 East Side Avenue, Dallas, TX 75214, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7941641,
+                  "lng" : -96.7624151
+               },
+               "southwest" : {
+                  "lat" : 32.7941613,
+                  "lng" : -96.7624333
+               }
+            },
+            "location" : {
+               "lat" : 32.7941641,
+               "lng" : -96.7624151
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7955116802915,
+                  "lng" : -96.76107521970849
+               },
+               "southwest" : {
+                  "lat" : 32.7928137197085,
+                  "lng" : -96.76377318029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Eiw0OTAwIEVhc3QgU2lkZSBBdmVudWUsIERhbGxhcywgVFggNzUyMTQsIFVTQQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

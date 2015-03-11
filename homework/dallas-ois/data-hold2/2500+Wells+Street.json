@@ -1,0 +1,80 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2500",
+               "short_name" : "2500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Wells Street",
+               "short_name" : "Wells St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bonton",
+               "short_name" : "Bonton",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75215",
+               "short_name" : "75215",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2500 Wells Street, Dallas, TX 75215, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7396742,
+                  "lng" : -96.75418119999999
+               },
+               "southwest" : {
+                  "lat" : 32.7396632,
+                  "lng" : -96.7541942
+               }
+            },
+            "location" : {
+               "lat" : 32.7396632,
+               "lng" : -96.75418119999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.74101768029149,
+                  "lng" : -96.75283871970848
+               },
+               "southwest" : {
+                  "lat" : 32.73831971970849,
+                  "lng" : -96.7555366802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EigyNTAwIFdlbGxzIFN0cmVldCwgRGFsbGFzLCBUWCA3NTIxNSwgVVNB",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

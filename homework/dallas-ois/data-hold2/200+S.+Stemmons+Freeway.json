@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Interstate 35E Frontage Road",
+               "short_name" : "I-35E Frontage Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Original Town",
+               "short_name" : "Original Town",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Carrollton",
+               "short_name" : "Carrollton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75006",
+               "short_name" : "75006",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "200 Interstate 35E Frontage Road, Carrollton, TX 75006, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9688516,
+               "lng" : -96.91900539999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9702005802915,
+                  "lng" : -96.91765641970848
+               },
+               "southwest" : {
+                  "lat" : 32.9675026197085,
+                  "lng" : -96.9203543802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJF4K89wImTIYR-JsLLcFijVQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "12222",
+               "short_name" : "12222",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Merit Drive",
+               "short_name" : "Merit Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "North Dallas",
+               "short_name" : "North Dallas",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75251",
+               "short_name" : "75251",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "12222 Merit Drive, Dallas, TX 75251, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9140139,
+               "lng" : -96.77148939999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9153628802915,
+                  "lng" : -96.7701404197085
+               },
+               "southwest" : {
+                  "lat" : 32.9126649197085,
+                  "lng" : -96.7728383802915
+               }
+            }
+         },
+         "place_id" : "ChIJa0zeMWsgTIYRcRzmTqbvXLY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

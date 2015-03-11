@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3050",
+               "short_name" : "3050",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Pentagon Parkway",
+               "short_name" : "W Pentagon Pkwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oak Cliff",
+               "short_name" : "Oak Cliff",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75233",
+               "short_name" : "75233",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3050 West Pentagon Parkway, Dallas, TX 75233, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7061534,
+                  "lng" : -96.8702413
+               },
+               "southwest" : {
+                  "lat" : 32.7061385,
+                  "lng" : -96.8702466
+               }
+            },
+            "location" : {
+               "lat" : 32.7061385,
+               "lng" : -96.8702466
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7074949302915,
+                  "lng" : -96.86889496970849
+               },
+               "southwest" : {
+                  "lat" : 32.7047969697085,
+                  "lng" : -96.87159293029151
+               }
+            }
+         },
+         "place_id" : "EjEzMDUwIFdlc3QgUGVudGFnb24gUGFya3dheSwgRGFsbGFzLCBUWCA3NTIzMywgVVNB",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

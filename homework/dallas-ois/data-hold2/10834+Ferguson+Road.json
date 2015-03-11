@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10834",
+               "short_name" : "10834",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ferguson Road",
+               "short_name" : "Ferguson Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75228",
+               "short_name" : "75228",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "10834 Ferguson Road, Dallas, TX 75228, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.8438191,
+                  "lng" : -96.66295749999999
+               },
+               "southwest" : {
+                  "lat" : 32.8438082,
+                  "lng" : -96.66297059999999
+               }
+            },
+            "location" : {
+               "lat" : 32.8438082,
+               "lng" : -96.66295749999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8451626302915,
+                  "lng" : -96.66161506970849
+               },
+               "southwest" : {
+                  "lat" : 32.8424646697085,
+                  "lng" : -96.6643130302915
+               }
+            }
+         },
+         "place_id" : "EioxMDgzNCBGZXJndXNvbiBSb2FkLCBEYWxsYXMsIFRYIDc1MjI4LCBVU0E",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

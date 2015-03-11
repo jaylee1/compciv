@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1515",
+               "short_name" : "1515",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Buckner Boulevard",
+               "short_name" : "S Buckner Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Piedmont Addition",
+               "short_name" : "Piedmont Addition",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75217",
+               "short_name" : "75217",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1515 South Buckner Boulevard, Dallas, TX 75217, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7380615,
+               "lng" : -96.6838211
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7394104802915,
+                  "lng" : -96.68247211970851
+               },
+               "southwest" : {
+                  "lat" : 32.7367125197085,
+                  "lng" : -96.68517008029151
+               }
+            }
+         },
+         "place_id" : "ChIJFUYryECjToYRSgk0PGzTmYM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

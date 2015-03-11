@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "900",
+               "short_name" : "900",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East McVey Avenue",
+               "short_name" : "E McVey Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cedar Crest",
+               "short_name" : "Cedar Crest",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75216",
+               "short_name" : "75216",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "900 East McVey Avenue, Dallas, TX 75216, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7095701,
+                  "lng" : -96.8121465
+               },
+               "southwest" : {
+                  "lat" : 32.7095546,
+                  "lng" : -96.8121467
+               }
+            },
+            "location" : {
+               "lat" : 32.7095546,
+               "lng" : -96.8121465
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7109113302915,
+                  "lng" : -96.81079761970851
+               },
+               "southwest" : {
+                  "lat" : 32.7082133697085,
+                  "lng" : -96.81349558029152
+               }
+            }
+         },
+         "place_id" : "Eiw5MDAgRWFzdCBNY1ZleSBBdmVudWUsIERhbGxhcywgVFggNzUyMTYsIFVTQQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
