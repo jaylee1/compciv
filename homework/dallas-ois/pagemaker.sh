@@ -125,7 +125,7 @@ gender
 </th>
 </tr>" >> suspects.html
 
-cat suspects.psv | while read -r line; do case=$(echo $line | cut -d '|' -f 1); date=$(echo $line | cut -d '|' -f 2); weapon=$(echo $line | cut -d '|' -f 3); first=$(echo $line | cut -d '|' -f 4); last=$(echo $line | cut -d '|' -f 5); race=$(echo $line | cut -d '|' -f 6); gender=$(echo $line | cut -d '|' -f 7);echo "<tr><td>"$case"</td>""<td>"$date"</td>""<td>""<td>"$weapon"</td>""<td>"$first"</td>""<td>"$last"</td>""<td>"$race"</td>""<td>"$gender"</td>""</tr>"; done >> suspects.html
+cat suspects.psv | while read -r line; do case=$(echo $line | cut -d '|' -f 1); date=$(echo $line | cut -d '|' -f 2); weapon=$(echo $line | cut -d '|' -f 3); first=$(echo $line | cut -d '|' -f 4); last=$(echo $line | cut -d '|' -f 5); race=$(echo $line | cut -d '|' -f 6); gender=$(echo $line | cut -d '|' -f 7);echo "<tr><td>"$case"</td>""<td>"$date"</td>""<td>"$weapon"</td>""<td>"$first"</td>""<td>"$last"</td>""<td>"$race"</td>""<td>"$gender"</td>""</tr>"; done >> suspects.html
 
 
 echo "
