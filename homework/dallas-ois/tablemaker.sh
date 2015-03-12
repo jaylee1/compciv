@@ -5,8 +5,10 @@ cat data.psv | while read -r line; do narrative=$(echo $line | cut -d '|' -f 1 |
 cat geocodes.psv | while read -r line; do add=$(echo $line | cut -d '|' -f 1 | tr + ' ' | cut -c -13); rest=$(echo $line | cut -d '|' -f 3,4); echo $add"|"$rest >> geocodes2.psv; done
 cat newdata.psv | while read -r line; do addsearch=$(echo $line | cut -d '|' -f 4 | cut -c -12); join=$(cat geocodes2.psv | grep "$addsearch"); echo $line"|"$join >> mincidents.psv; done
 ##cleans up and creates final incidents.psv
-cat mincidents.psv | cut -d '|' -f 2,3,4,5,6,7,8,9,10,12,13 > pincidents.psv
-cat pincidents.psv | while read -r line; do first=$(echo $line | cut -d '|' -f 1,2,3,4,5,6,7,8); second=$(echo $line | cut -d '|' -f 9); third=$(echo $line | cut -d '|' -f 10,11); echo $first"|"$third"|"$second >> incidents.psv; done
+
+cat mincidents.psv | cut -d '|' -f 2,3,4,5,6,7,8,9,10,12,13 >> pincidents.psv
+cat pincidents.psv | while read -r line; do rest=$(echo $line | cut -d '|' -f 1,2,3,4,5,6,7,8,9,10); lng=$(echo $line | cut -d '|' -f 11 | cut -d ' ' -f 1); echo $rest"|"$lng; done >> pincidents2.psv
+cat pincidents2.psv | while read -r line; do first=$(echo $line | cut -d '|' -f 1,2,3,4,5,6,7,8); second=$(echo $line | cut -d '|' -f 9); third=$(echo $line | cut -d '|' -f 10,11); echo $first"|"$third"|"$second >> incidents.psv; done
 cp incidents.psv ..
 
 cat incidents.psv | cut -d '|' -f 1,2,4,5,7 > officerswork.psv

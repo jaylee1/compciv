@@ -11,8 +11,8 @@ cat *.html | ~/bin_compciv/pup 'table table tr json{}' |   ~/bin_compciv/jq  --r
     .[7] .text
   ] | @csv' > data.csv
 
-csvfix echo -osep '|' -smq data.csv > data.psv
-cat data.psv | grep -v Officer > data.psv
+csvfix echo -osep '|' -smq data.csv > data2.psv
+cat data2.psv | grep -v Officer > data.psv
 
 cat data.psv | cut -d '|' -f 4 | grep -v 'Location'| grep -v 'Handgun' | tr ' ' '+' > locations-urls.psv
 cat data.psv | cut -d '|' -f 4 | grep -v 'Location'| grep -v 'Handgun' > locations.psv
