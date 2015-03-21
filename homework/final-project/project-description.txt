@@ -1,0 +1,16 @@
+This collection of scripts is meant to programmatically clean up and analyze data from two databases: 1) The Crunchbase data regarding what companies have raised funding, and 2) The Crunchbase data regarding the reported fundraising rounds that have occurred.
+
+1). cleanup.sh
+The cleanup.sh file will copy the two original databases (companies and rounds) from the orig-data directory. Bringing it into the main directory, the script will then clean up the files. Because the original csvs of both datasets are screwy in that they are really just one long line of data instead of being separated by lines, I manually went in and added a ‘{‘ to the end of each line in companies, and a ‘=‘ at the each line of rounds. That way, a tr can be performed to transform them into a '\n' . Also, both databases will be lowercased and become pipe-delimited.
+
+From there, the cleanup script also created a list of the top categories that comes up in the companies csv database (top-sectors.txt).
+
+2). spreadsheet.sh
+The spreadsheet.sh program runs a while read loop that will then create a master cdv with the categories that I want to look at for each company in the database: 1) name 2) category 3) funding 4) status 5) region 6) when it was founded. This is all get into a master.csv.
+
+3). sector.sh
+This is the script that can be used to search and analyzed for whatever sector you choose. Typing in "bash sector.sh" followed by any category of industry (lowercased -- ex: bash sector.sh transportation) will produce a pipe-delimited output that, as the program goes into the rounds.csv database, has the 1) name 2) status 3) region 4) founded date 5) type of fundraising round 6) date of fundraising round 7) the amount. This collects and combines all the data of the companies within the given category that has reported a fundraising round, with all the important company information and fundraising information together in one pipe-delimited file.
+
+Warning, it will take forever to run.
+
+I tried to have a third step that curled the Crunchbase pages for the companies for further information (number of employees, company description, etc), but a curl attempt for Crunchbase webpages gets blocked because of "detected suspicious activity."
